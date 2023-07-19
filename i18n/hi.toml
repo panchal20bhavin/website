@@ -1,0 +1,58 @@
+# Miscellaneous
+[more]
+other = "अधिक ..."
+
+# Main page hero buttons
+[quickstart]
+other = "कुबेरनेट्स क्विकस्टार्ट"
+
+[build]
+other = "स्थानीय स्थापना"
+
+[documentation]
+other = "प्रलेखन"
+
+# "Who uses" section
+[who_uses]
+other = "विटेस का उपयोग कौन करता है"
+
+[add_logo]
+other = "अपना लोगो जोड़ें"
+
+# CNCF section
+[cncf]
+other = "विटेस एक [क्लाउड नेटिव कंप्यूटिंग फाउंडेशन] (https://cncf.io) स्नातक परियोजना है"
+
+# Intro section
+[intro_vitess]
+other = "विटेस का परिचय"
+
+# Navbar/footer links
+[docs]
+other = "डॉक्स"
+
+[blog]
+other = "ब्लॉग"
+
+[community]
+other = "समुदाय"
+
+# Footer
+[authors]
+other = "विटेस लेखक"
+
+# Social media
+[github]
+other = "GitHub"
+
+[twitter]
+other = "Twitter"
+
+[slack]
+other = "Slack"
+
+[stack_overflow]
+other = "Stack Overflow"
+
+[search]
+other = "दस्तावेज़ खोजें"
